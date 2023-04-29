@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "img_path": "assets/img/image_hub.png",
+      "subtitle": "HTML, CSS & Javascript",
+      "title": "Image HUB",
+      "link": "https://workaccvikas.github.io/Image-HUB/"
+    },
+    {
+      "img_path": "assets/img/note_app.png",
+      "subtitle": "HTML, CSS & Javascript",
+      "title": "Note App",
+      "link": "https://workaccvikas.github.io/Note-App/"
+    },
+    {
+      "img_path": "assets/img/todo_list.png",
+      "subtitle": "HTML, CSS & Javascript",
+      "title": "Todo List",
+      "link": "https://workaccvikas.github.io/Todo-List/"
+    },
+    {
+      "img_path": "assets/img/weather_app.png",
+      "subtitle": "HTML, CSS & Javascript",
+      "title": "Weather App",
+      "link": "https://workaccvikas.github.io/Weather-App/"
+    },
+    {
+      "img_path": "assets/img/sneak_game.png",
+      "subtitle": "HTML, CSS & Javascript",
+      "title": "Sneak Game",
+      "link": "https://workaccvikas.github.io/Sneak_Game/"
+    }
+  ]
+}
