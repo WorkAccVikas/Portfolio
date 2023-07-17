@@ -1,5 +1,10 @@
 {
-  "projects": [
+  "projects": [{
+      "img_path": "assets/img/cinemania.png",
+      "subtitle": "React",
+      "title": "Cinemania",
+      "link": "https://cinemania-workaccvikas.vercel.app/"
+    },
     {
       "img_path": "assets/img/image_hub.png",
       "subtitle": "HTML, CSS & Javascript",
