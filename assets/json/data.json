@@ -1,15 +1,21 @@
 {
   "projects": [
     {
+      "img_path": "assets/img/instagram_clone.png",
+      "subtitle": "MongoDB, React, Express & Node JS",
+      "title": "MERN : Instagram Clone",
+      "link": "https://64d29d15a4faca00664395b6--fabulous-melba-35d526.netlify.app/"
+    },
+    {
       "img_path": "assets/img/login_app.png",
       "subtitle": "MongoDB, React, Express & Node JS",
-      "title": "Login App",
+      "title": "MERN : Login App",
       "link": "https://tubular-chebakia-25f19a.netlify.app/"
     },
     {
       "img_path": "assets/img/cinemania.png",
       "subtitle": "React",
-      "title": "Cinemania",
+      "title": "React : Cinemania",
       "link": "https://cinemania-workaccvikas.vercel.app/"
     },
     {
