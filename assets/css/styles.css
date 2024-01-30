@@ -658,6 +658,8 @@ body.dark-theme {
   width: 250px;
   border-radius: 0.75rem;
   margin-bottom: 1.25rem;
+  height: 150px;
+  object-fit: cover;
 }
 
 .project__subtitle {
@@ -1055,6 +1057,8 @@ body.dark-theme {
   .projects__img {
     width: 200px;
     justify-self: center;
+    height: 100px;
+    object-fit: cover;
   }
 
   .footer__container {
@@ -1401,6 +1405,8 @@ body.dark-theme {
   .projects__img {
     width: 320px;
     margin-bottom: 2rem;
+    height: 150px;
+    object-fit: cover;
   }
 
   .testimonial__container {

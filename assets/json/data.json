@@ -1,6 +1,12 @@
 {
   "projects": [
     {
+      "img_path": "assets/img/react_ts_admin_dashboard.png",
+      "subtitle": "React, Typescript, Sass",
+      "title": "React : Admin Dashboard",
+      "link": "https://65b8ece4f02668e19dd69660--preeminent-pothos-2dea08.netlify.app/"
+    },
+    {
       "img_path": "assets/img/instagram_clone.png",
       "subtitle": "MongoDB, React, Express & Node JS",
       "title": "MERN : Instagram Clone",
